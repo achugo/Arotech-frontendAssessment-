@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="588px" height="477px" viewBox="0 0 588 477" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.1 (78136) - https://sketchapp.com -->
+    <title>C6FAF6B0-0DC7-4A8F-9814-FA08D1752577</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="486" height="407" rx="2"></rect>
+        <filter x="-12.0%" y="-11.4%" width="124.1%" height="128.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.941176471   0 0 0 0 0.945098039  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="0" y="109" width="518" height="71.8032787" rx="4"></rect>
+        <filter x="-5.5%" y="-27.2%" width="111.0%" height="179.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.113196332 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="0" y="109" width="518" height="73"></rect>
+        <filter x="-11.3%" y="-63.7%" width="122.6%" height="260.3%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.556862745   0 0 0 0 0.835294118   0 0 0 0 1  0 0 0 0.520787806 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="📜-Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing-page" transform="translate(-312.000000, -3966.000000)">
+            <g id="choose-essay-type" transform="translate(347.000000, 3989.000000)">
+                <g id="Rectangle-Copy" transform="translate(15.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-3" mask="url(#mask-2)">
+                        <g id="Group-2" fill="#ECF0F1" opacity="0.499886775">
+                            <rect id="Rectangle-Copy" x="1" y="1" width="484" height="47"></rect>
+                        </g>
+                        <g id="Group" transform="translate(10.000000, 15.000000)">
+                            <circle id="Oval" fill="#FF6057" cx="6.5" cy="6.5" r="6.5"></circle>
+                            <circle id="Oval-Copy" fill="#FFC12E" cx="28.5" cy="6.5" r="6.5"></circle>
+                            <circle id="Oval-Copy-2" fill="#28CA40" cx="52.5" cy="6.5" r="6.5"></circle>
+                        </g>
+                    </g>
+                </g>
+                <g id="Rectangle-28">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <rect id="Rectangle-16" fill="#FAFAFA" x="16" y="181" width="64" height="225"></rect>
+                <text id="2" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" letter-spacing="0.4" fill="#393649">
+                    <tspan x="43.6847656" y="225">2</tspan>
+                </text>
+                <text id="3" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" letter-spacing="0.4" fill="#393649">
+                    <tspan x="43.1847656" y="282">3</tspan>
+                </text>
+                <text id="4" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" letter-spacing="0.4" fill="#393649">
+                    <tspan x="43.1847656" y="335">4</tspan>
+                </text>
+                <text id="5" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" letter-spacing="0.4" fill="#393649">
+                    <tspan x="43.1847656" y="391">5</tspan>
+                </text>
+                <g id="Rectangle-28-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                    <use fill="#579FCA" fill-rule="evenodd" xlink:href="#path-6"></use>
+                </g>
+                <text id="1" font-family=".SFNSDisplay, .SF NS Display" font-size="23" font-weight="normal" letter-spacing="0.46" fill="#FFFFFF">
+                    <tspan x="41.6713672" y="156">1</tspan>
+                </text>
+                <text id="Opinion-(Agree-or-Di" font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" letter-spacing="0.36" fill="#FFFFFF">
+                    <tspan x="110.5" y="153">Opinion (Agree or Disagree)</tspan>
+                </text>
+                <text id="Advantages-and-Disad" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" letter-spacing="0.32" fill="#393649">
+                    <tspan x="111" y="223">Advantages and Disadvantages</tspan>
+                </text>
+                <text id="Choose-Essay-Type" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" letter-spacing="0.4" fill="#393649">
+                    <tspan x="58" y="93">Choose Essay Type</tspan>
+                </text>
+                <text id="Problem-and-Solution" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" letter-spacing="0.32" fill="#393649">
+                    <tspan x="111" y="277">Problem and Solution</tspan>
+                </text>
+                <text id="Discussion-(Discuss" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" letter-spacing="0.32" fill="#393649">
+                    <tspan x="111" y="332">Discussion (Discuss both views)</tspan>
+                </text>
+                <text id="Two-part-Question" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" letter-spacing="0.32" fill="#393649">
+                    <tspan x="111" y="387">Two-part Question</tspan>
+                </text>
+                <g id="next" transform="translate(472.000000, 265.000000)" fill="#AFAEAE" fill-rule="nonzero" stroke="#979797">
+                    <g id="Capa_1">
+                        <path d="M5.90769859,5.34617994 L0.56324347,0.0927690287 C0.437407788,-0.0309230096 0.235595844,-0.0309230096 0.109760161,0.0927690287 C-0.0160755214,0.216461067 -0.0160755214,0.414835091 0.109760161,0.538527129 L5.2262865,5.56789208 L0.109760161,10.597257 C-0.0160755214,10.7209491 -0.0160755214,10.9193231 0.109760161,11.0430151 C0.171490873,11.1036942 0.254589909,11.1363676 0.335314687,11.1363676 C0.416039464,11.1363676 0.4991385,11.1060281 0.560869212,11.0430151 L5.90532434,5.78960423 C6.03116002,5.668246 6.03116002,5.46753816 5.90769859,5.34617994 Z" id="Shape"></path>
+                        <path d="M5.90769859,-49.6538201 L0.56324347,-54.907231 C0.437407788,-55.030923 0.235595844,-55.030923 0.109760161,-54.907231 C-0.0160755214,-54.7835389 -0.0160755214,-54.5851649 0.109760161,-54.4614729 L5.2262865,-49.4321079 L0.109760161,-44.402743 C-0.0160755214,-44.2790509 -0.0160755214,-44.0806769 0.109760161,-43.9569849 C0.171490873,-43.8963058 0.254589909,-43.8636324 0.335314687,-43.8636324 C0.416039464,-43.8636324 0.4991385,-43.8939719 0.560869212,-43.9569849 L5.90532434,-49.2103958 C6.03116002,-49.331754 6.03116002,-49.5324618 5.90769859,-49.6538201 Z" id="Shape"></path>
+                        <path d="M5.89231519,59.3461799 L0.547860071,54.092769 C0.422024388,53.969077 0.220212445,53.969077 0.094376762,54.092769 C-0.0314589207,54.2164611 -0.0314589207,54.4148351 0.094376762,54.5385271 L5.2109031,59.5678921 L0.094376762,64.597257 C-0.0314589207,64.7209491 -0.0314589207,64.9193231 0.094376762,65.0430151 C0.156107474,65.1036942 0.23920651,65.1363676 0.319931287,65.1363676 C0.400656065,65.1363676 0.483755101,65.1060281 0.545485813,65.0430151 L5.88994094,59.7896042 C6.01577662,59.668246 6.01577662,59.4675382 5.89231519,59.3461799 Z" id="Shape"></path>
+                        <path d="M5.89231519,114.34618 L0.547860071,109.092769 C0.422024388,108.969077 0.220212445,108.969077 0.094376762,109.092769 C-0.0314589207,109.216461 -0.0314589207,109.414835 0.094376762,109.538527 L5.2109031,114.567892 L0.094376762,119.597257 C-0.0314589207,119.720949 -0.0314589207,119.919323 0.094376762,120.043015 C0.156107474,120.103694 0.23920651,120.136368 0.319931287,120.136368 C0.400656065,120.136368 0.483755101,120.106028 0.545485813,120.043015 L5.88994094,114.789604 C6.01577662,114.668246 6.01577662,114.467538 5.89231519,114.34618 Z" id="Shape"></path>
+                    </g>
+                </g>
+                <path d="M477.407479,146.72091 L470.688738,140.116624 C470.530545,139.961125 470.276838,139.961125 470.118645,140.116624 C469.960452,140.272122 469.960452,140.521507 470.118645,140.677005 L476.550847,146.999633 L470.118645,153.322261 C469.960452,153.47776 469.960452,153.727144 470.118645,153.882643 C470.196249,153.958925 470.300717,154 470.402199,154 C470.503682,154 470.608149,153.961859 470.685753,153.882643 L477.404495,147.278357 C477.562688,147.125792 477.562688,146.873474 477.407479,146.72091 Z" id="Shape" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" transform="translate(473.761758, 147.000000) scale(-1, 1) rotate(-180.000000) translate(-473.761758, -147.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

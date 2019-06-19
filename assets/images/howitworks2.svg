@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="178px" height="197px" viewBox="0 0 178 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.1 (78136) - https://sketchapp.com -->
+    <title>F72809C6-2385-4F96-B2FC-FFAFA2A899A8</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="-4.54747351e-13" y="32.122449" width="103.918367" height="117.877551" rx="4"></rect>
+        <filter x="-56.3%" y="-39.4%" width="212.6%" height="199.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="12" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.925490196   0 0 0 0 0.941176471   0 0 0 0 0.945098039  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="📜-Landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing-page" transform="translate(-856.000000, -3293.000000)">
+            <g id="2" transform="translate(891.000000, 3293.000000)">
+                <rect id="Rectangle-11" stroke="#5F5A76" stroke-width="0.5" fill="#FFFFFF" x="35.9234694" y="0.25" width="103.418367" height="117.377551" rx="4"></rect>
+                <circle id="Oval" fill="#579FCA" cx="55.8367347" cy="27.9183673" r="4.65306122"></circle>
+                <circle id="Oval" fill="#2DB0EA" cx="55.8367347" cy="48.0816327" r="4.65306122"></circle>
+                <circle id="Oval" fill="#2DB0EA" cx="55.8367347" cy="69.7959184" r="4.65306122"></circle>
+                <circle id="Oval" fill="#2DB0EA" cx="55.8367347" cy="89.9591837" r="4.65306122"></circle>
+                <path d="M72.122449,28.6938776 L124.857143,28.6938776" id="Line" stroke="#579FCA" stroke-linecap="square"></path>
+                <path d="M72.122449,48.8571429 L124.857143,48.8571429" id="Line" stroke="#579FCA" stroke-linecap="square"></path>
+                <path d="M72.122449,70.5714286 L124.857143,70.5714286" id="Line" stroke="#579FCA" stroke-linecap="square"></path>
+                <path d="M72.122449,90.7346939 L124.857143,90.7346939" id="Line" stroke="#8ED5FF" stroke-linecap="square"></path>
+                <g id="Rectangle-11">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke="#5F5A76" stroke-width="0.5" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.25" y="32.372449" width="103.418367" height="117.377551" rx="4"></rect>
+                </g>
+                <path d="M36.4489796,57.7142857 L89.1836735,57.7142857" id="Line" stroke="#0E936E" stroke-linecap="square"></path>
+                <path d="M36.4489796,77.877551 L89.1836735,77.877551" id="Line" stroke="#0E936E" stroke-linecap="square"></path>
+                <path d="M36.4489796,99.5918367 L89.1836735,99.5918367" id="Line" stroke="#0E936E" stroke-linecap="square"></path>
+                <path d="M36.4489796,122.857143 L89.1836735,122.857143" id="Line" stroke="#EC4F4F" stroke-linecap="square"></path>
+                <polygon id="Shape" fill="#0E936E" fill-rule="nonzero" points="20.4430708 60.5129053 16.7434208 56.6385197 15.5102041 57.9299816 20.4430708 63.0958291 31.0134994 52.0261558 29.7802827 50.7346939"></polygon>
+                <polygon id="Shape-Copy" fill="#0E936E" fill-rule="nonzero" points="20.4430708 82.2271911 16.7434208 78.3528054 15.5102041 79.6442673 20.4430708 84.8101148 31.0134994 73.7404415 29.7802827 72.4489796"></polygon>
+                <polygon id="Shape-Copy-2" fill="#0E936E" fill-rule="nonzero" points="20.4430708 102.390456 16.7434208 98.5160707 15.5102041 99.8075326 20.4430708 104.97338 31.0134994 93.9037068 29.7802827 92.6122449"></polygon>
+                <path d="M21.9907184,131.293692 L21.9907184,114.150835" id="Path-5" stroke="#EC4F4F" stroke-width="1.5" transform="translate(21.990718, 122.722263) rotate(-135.000000) translate(-21.990718, -122.722263) "></path>
+                <path d="M21.9907184,131.293692 L21.9907184,114.150835" id="Path-5" stroke="#EC4F4F" stroke-width="1.5" transform="translate(21.990718, 122.722263) rotate(135.000000) translate(-21.990718, -122.722263) "></path>
+                <circle id="Oval-2" fill="#579FCA" cx="116.326531" cy="115.326531" r="26.3673469"></circle>
+                <text id="8.0" font-family="Roboto-Medium, Roboto" font-size="18" font-weight="400" fill="#FFFFFF">
+                    <tspan x="103.715043" y="121.959184">8.0</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
