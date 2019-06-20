@@ -123,9 +123,7 @@ ul.mr-auto{
     padding: 1em;
   }
 
-  .arrow-block{
-    position: relative;
-  }
+  
   .learn_to-read{
     font-size: 20px;
     display:inline-block;
@@ -486,9 +484,20 @@ ul.mr-auto{
     border: solid 1px #2c0fef;
     background-color: #ffffff;
     margin-bottom: 2em;
+    font-weight: 500;
+    font-size: 14px
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #2c0fef;
 
   }
-
+  .arrow-block{
+    width: 7%;
+    padding-left: 1%;
+  }
   .contact{
     margin: 4em 0;
   }
