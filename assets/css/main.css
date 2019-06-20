@@ -367,12 +367,11 @@ ul.mr-auto{
   }
 
   .testimonial{
-      background: url('/assets/images/mixedBlend.svg');
-      background-attachment: fixed;
+      background: url('/assets/images/mixed-blend.svg');
       min-height: 100%;
       position: relative;
       bottom: 30px;
-      background-size: cover;
+      background-size: contain;
       background-repeat: no-repeat;
       background-position: center;
      
@@ -495,8 +494,8 @@ ul.mr-auto{
 
   }
   .arrow-block{
-    width: 7%;
-    padding-left: 1%;
+    width: 13px;
+    margin-left: 5px;
   }
   .contact{
     margin: 4em 0;
