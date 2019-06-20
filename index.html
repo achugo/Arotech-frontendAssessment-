@@ -12,14 +12,26 @@
     <div class="container-fluid">
         <header>
             <nav class="navbar navbar-expand-lg">
-                    <a class="navbar-brand">Brand</a>
+                    <a class="navbar-brand">
+                        <div class="logo_wrapper">
+                            <div class="logo_img">
+                                <img class="img-fluid" src="./assets/images/asset2.svg" alt="logo image" />
+                            </div>
+                           
+                            <div class="logo-text">
+                                <span class="first_text">Trish</span><span class="second_text">Academy</span><br>
+                                
+                            </div>
+                            
+                        </div>
+                    </a>
                     <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div id="my-nav" class="collapse navbar-collapse">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item active">
-                                <a class="nav-link" href="#"> TEST<span class="sr-only">(current)</span></a>
+                                <a class="nav-link" href="#"> TEST<span class="sr-only"></span></a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">HOW IT WORKS</a>
@@ -118,7 +130,7 @@
                     </div>
                 </div>
                 <div class="tests_section">
-                    <div class="row">
+                    <div class="row macbook-chilling">
                         <div class="col-md-6">
                             <div class="row">
                                 <div class="col-md-6 reading-test">
@@ -130,7 +142,7 @@
                                                 the tricks behind passing the IELTS Reading Module.
                                         </span>
                                     </div>
-                                    <button class="marker btn">TAKE FREE TEST</button>
+                                    <button class="btn-take-test btn">TAKE FREE TEST</button>
                                 </div>
                                 <div class="col-md-6 listening-test">
                                     <h3>Listening Test</h3>
@@ -141,10 +153,11 @@
                                                 the tricks behind passing the IELTS Reading Module.
                                         </span>
                                     </div>
-                                    <button class="marker btn">TAKE FREE TEST</button>
+                                    <button class="btn-take-test btn">TAKE FREE TEST</button>
                                 </div>
                                 <div class="col-md-6 writing-test">
                                     <h3>Writing Test</h3>
+                                    <img class="writing-award" src="./assets/images/writing-award.svg" alt="award" />
                                     <div class="content-description">
                                         <span>
                                                 Each passage has explained answers
@@ -152,7 +165,7 @@
                                                 the tricks behind passing the IELTS Reading Module.
                                         </span>
                                     </div>
-                                    <button class="marker btn">TAKE FREE TEST</button>
+                                    <button class="btn-take-test btn">TAKE FREE TEST</button>
                                 </div>
                                 <div class="col-md-6 speaking-test">
                                     <h3>Speaking Test</h3>
@@ -163,14 +176,14 @@
                                                 the tricks behind passing the IELTS Reading Module.
                                         </span>
                                     </div>
-                                    <button class="marker btn btn-primary-outline">TAKE FREE TEST</button>
+                                    <button class="btn-take-test btn">TAKE FREE TEST</button>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="macbook-chilling">
+                            <!-- <div class="macbook-chilling">
                                 <img class="img-fluid" src="./assets/images/macbook-chilling.svg" alt="macbook chilling" />
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -185,7 +198,8 @@
                     <div class="row">
                         <div class="col-md-4 text-center">
                             <div class="image-wrapper">
-                                <img  class="img-fluid" src="./assets/images/howitworks1.svg" alt="" />
+                                <img  class="width50__percent img-fluid bottom15" src="./assets/images/howitworks1.svg" alt="" />
+                                <!-- <span class="arrow-block">------></span> -->
                             </div>
                             
                             <div class="howItWorks_content">
@@ -195,7 +209,7 @@
                         </div>
                         <div class="col-md-4 text-center">
                             <div class="image-wrapper">
-                                 <img class="img-fluid" src="./assets/images/howitworks2.svg" alt="" />
+                                 <img class="width50__percent img-fluid" src="./assets/images/howitworks2.svg" alt="" />
                             </div>
                             
                             <div class="howItWorks_content">
@@ -205,7 +219,7 @@
                         </div>
                         <div class="col-md-4 text-center">
                             <div class="image-wrapper">
-                                <img class="img-fluid" src="./assets/images/howitworks3.png" alt="" />
+                                <img class="width75__percent img-fluid bottom15" src="./assets/images/howitworks3.png" alt="" />
                             </div>
     
                             <div class="howItWorks_content">
@@ -232,7 +246,7 @@
                         </div>
                         
                         <div class="col-md-6 mt-3">
-                            <img src="./assets/images/tiny-keyboad.svg" alt="">
+                            <img class="width5__percent" src="./assets/images/tiny-keyboad.svg" alt="">
                             <div class="essay-content">
                                 <h6>sample</h6>
                                 <hr>
@@ -243,8 +257,8 @@
                                 </span>
                             </div>
                         </div>
-                        <div class="col-md-6">
-                            <img src="./assets/images/asset2.svg" alt="">
+                        <div class="col-md-6 padding-left15 mt-5 mb-4">
+                            <img class="width4__percent" src="./assets/images/asset2.svg" alt="">
                             <div class="essay-content">
                                 <h6>sample</h6>
                                 <hr>
@@ -255,18 +269,18 @@
                                 </span>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 mt-4 mb-4">
                             <img class="width75__percent float-left" src="./assets/images/chatlikeEssay.png" alt="" />
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 mt-5 mb-5">
                             <img class="width75__percent float-right" src="./assets/images/bandScore.png" alt="" />
                         </div>
-                        <div class="col-md-6">
-                            <img src="./assets/images/asset3.svg" alt="">
+                        <div class="col-md-6 mt-5 mb-5">
+                            <img class="width3__percent" src="./assets/images/asset3.svg" alt="">
                             <div class="essay-content">
                                 <h6>sample</h6>
                                 <hr>
-                                <span class="mainEssayContent">
+                                <span class="mainEssayContent padding-right15">
                                     Take the writing test by choosing an essay topic from the standard essay types
                                     which usually increase in difficulty. You are required to finish the test in 60 mins
                                     and send for grading.
@@ -282,11 +296,14 @@
                             <img class="img-fluid" src="./assets/images/pc-chart.png" alt="chart" /> 
                         </div>
                         <div class="col-md-4">
-                            <h3>Earn up to
-                                ₦50,000 monthly
-                                marking scripts at
-                                your leisure.
-                            </h3>
+                            <div class="fifty-k">
+                                <h3>Earn up to
+                                        ₦50,000 monthly
+                                    marking scripts at
+                                    your leisure.
+                                </h3>
+                            </div>
+                            
                             <div>Earn extra income by doing what you want</div>
                             <button class="btn marker">Get Started</button>
 
@@ -303,12 +320,12 @@
                         <div class="card">
                             <div class="card-body">
                                 <div class="row">
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 testimonal-wrapper">
                                         <div class="blend">
                                             <img class="img-fluid testimonialImg" src="./assets/images/obiArnize.png" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 testimonal-wrapper">
                                         <div class="main_testimonial">
                                             My writing skills improved by
                                             a 100%…Even after getting 9.0 at the IELTS exams, I still find myself here
@@ -318,27 +335,27 @@
                                             <span>Abuja, Nigeria</span>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
-                                            <div class="main_testimonial">
+                                    <div class="col-md-6 testimonal-wrapper1">
+                                            <div class="main_testimonial1">
                                             My writing skills improved by
                                             a 100%…Even after getting 9.0 at the IELTS exams, I still find myself here
                                         </div>
                                         <h6>Obi Arinze</h6>
                                         <div class="location">
-                                            <span>Abuja, Nigeria</span>
+                                            <span>Barcelona, Spain</span>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 testimonal-wrapper">
+                                        <div class="blend1">
+                                            <img class="img-fluid testimonialImg" src="./assets/images/Todd.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 testimonal-wrapper">
                                         <div class="blend">
-                                            <img class="img-fluid testimonialImg" src="./assets/images/obiArnize.png" alt="">
+                                            <img class="img-fluid testimonialImg" src="./assets/images/juliet.png" alt="">
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
-                                        <div class="blend">
-                                            <img class="img-fluid testimonialImg" src="./assets/images/obiArnize.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 testimonal-wrapper">
                                             <div class="main_testimonial">
                                             My writing skills improved by
                                             a 100%…Even after getting 9.0 at the IELTS exams, I still find myself here
@@ -379,7 +396,7 @@
                                             <label for="fullName">Full Name</label>
                                             <input id="fullName" class="form-control" type="text" name="">
                                         </div>
-                                        <div class="form-group padding-right0">
+                                        <div class="form-group padding-right0" style="width: 50%">
                                             <label for="email">Email</label>
                                             <input id="email" class="form-control" type="email" name="">
                                         </div>
@@ -400,6 +417,43 @@
                         </div>
                     </div>
                 </section>
+                <footer>
+                    <div class="stay-in-touch text-center">
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-4">
+                                <h4>Stay in Touch</h4>
+
+                                <form method="get" action="">
+                                    <div class="form-group">
+                                        <label for="my-input">Subscribe to Newsletter</label>
+                                        <input id="my-input" class="form-control" type="text" name="" placeholder="Your Email Address">
+                                    </div>
+                                    <div class="form-group">
+                                        <button class="btn">SUBMIT</button>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="col-md-4"></div>
+                        </div>
+                        
+                    </div>
+                    <div class="footer_bottom">
+                        <div class="row">
+                            <div class="col-md-1"></div>
+                            <div class="col-md-10">
+                                <hr>
+                                <div class="row">
+                                    <div class="col-md-4">© 2019 Trish Academy, Inc. All rights reserved.</div>
+                                    
+                                    <div class="col-md-4 text-center">UI/UX by arotec.io</div>
+                                    <div class="col-md-4"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-1"></div>
+                        </div>
+                    </div>
+                </footer>
             </div>
         </main>
         
