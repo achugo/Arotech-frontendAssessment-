@@ -179,7 +179,10 @@ ul.mr-auto{
     padding-bottom: 2em;
   }
 
-  
+  .position_tests{
+    position: relative;
+    
+  }
   .macbook-chilling{
       background: url('../images/macbook-chilling.svg');
       background-position: center;
@@ -189,6 +192,8 @@ ul.mr-auto{
       min-height: 100%;
       bottom: 0;
   }
+  
+ 
   .why_consider h5{
     font-weight: bold;
     font-style: normal;
@@ -378,7 +383,7 @@ ul.mr-auto{
   }
 
   .testimonial-header{
-    padding-top:20%;
+    padding-top:14%;
     text-align: center;
   }
 
@@ -597,3 +602,48 @@ ul.mr-auto{
   /* .padding-right0{
     padding-right: 0 !important;
   } */
+
+  @media (max-width:1200px) and (min-width:955px){
+    .position_tests{
+      position: relative;
+      bottom: 12%;
+    }
+    .fifty-k h3 {
+      font-size: 1.5em;
+   }
+  x
+    .earn button {
+      margin-top: 2rem;
+    }
+    .macbook-chilling{
+   
+      bottom: 0;
+      top: 110px;
+      margin-bottom: 4.1em;
+    }
+  }
+
+  @media (max-width:954px) and (min-width:795px){
+    .position_tests{
+      position: relative;
+      bottom: 8%;
+    }
+    fifty-k {
+      padding: 1.2rem 2rem 0 0;
+  }
+    .fifty-k h3 {
+      font-size: 1em;
+   }
+   .content-description span {
+    font-size: 10px;
+  }
+    .earn button {
+      margin-top: 0.2rem;
+    }
+    .macbook-chilling{
+   
+      bottom: 0;
+      top: 110px;
+      margin-bottom: 2em;
+    }
+  }
