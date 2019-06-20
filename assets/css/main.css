@@ -371,7 +371,7 @@ ul.mr-auto{
       min-height: 100%;
       position: relative;
       bottom: 30px;
-      background-size: contain;
+      background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
      
